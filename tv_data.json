@@ -28,7 +28,7 @@
       "id" : "mm_4",
       "name" : "Mahar",
       "image_url" : "https://play-lh.googleusercontent.com/N6SC8p7sjbw6E68rtljKcI2iyPq5wZk9oUGYuh7DreW-4AZsUFwiv7KDnxP59QxbKoU",
-      "data_url" : "https://live.mahar.tv/channel/mahar-web.smil/chunklist_w89274488_b800000.m3u8",
+      "data_url" : "https://tv.mahar.live/mahar/website.stream/mahar/website2/chunks.m3u8",
       "type" : "tv",
       "country" : "my"
     },
