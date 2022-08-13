@@ -1,0 +1,140 @@
+{
+  "results" : [
+    {
+      "id" : "rd_1",
+      "name" : "Cherry FM",
+      "image_url" : "https://lh3.googleusercontent.com/-IOLRM6EWMdpM0s12beniYWgmz8kkHVrTIrvSjf-QryWzu05zJxjLW20MidOItJIVg",
+      "data_url" : "http://159.65.15.33:8000",
+      "type" : "radio",
+      "country" : "my"
+    },
+    {
+      "id" : "rd_2",
+      "name" : "Voice of America Burmese",
+      "image_url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMNKQaSrZTc4x4SUs96SSLffQ53z5ww2ETh_sqhaeFybyxYkOiMAtcGvNpZA&s",
+      "data_url" : "http://ample-05.radiojar.com/d0ktetbs92quv?rj-ttl=5&rj-tok=AAABbf3sQmQAjn3GOkFh5YtRug",
+      "type" : "radio",
+      "country" : "my"
+    },
+    {
+      "id" : "rd_3",
+      "name" : "Radio Voice of Burma Rus",
+      "image_url" : "https://cdn.raddio.net/storage/photos/260073/e6c1d9e8225d97b6049c66ed26e606f0_100x100.webp",
+      "data_url" : "http://stream0.radiostyle.ru:8000/voiceofburma",
+      "type" : "radio",
+      "country" : "my"
+    },
+    {
+      "id" : "rd_4",
+      "name" : "Democratic Voice Of Burma",
+      "image_url" : "https://upload.wikimedia.org/wikipedia/en/5/59/Democratic_Voice_of_Burma.png",
+      "data_url" : "http://stream0.radiostyle.ru:8000/voiceofburma",
+      "type" : "radio",
+      "country" : "my"
+    },
+    {
+      "id" : "rd_5",
+      "name" : "DWG Radio Burmese",
+      "image_url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeH7mko--Av2CiZJFKE1Z8FV8E49UEAiIe9KCgUOUWD4IPsPnE848E1pI&s",
+      "data_url" : "http://server32349.streamplus.de/",
+      "type" : "radio",
+      "country" : "my"
+    },
+    {
+      "id" : "rd_6",
+      "name" : "Pandamyar FM",
+      "image_url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBkx8GR-aIypbH70nb6zk4o6UMaQ7aNbjMT8lI7VW8VGa6CJqxFgxCn3iF&s",
+      "data_url" : "https://s2.radio.co/s969e6c4b7/listen",
+      "type" : "radio",
+      "country" : "my"
+    },
+    {
+      "id" : "rd_7",
+      "name" : "Thazin FM",
+      "image_url" : "https://i3.radionomy.com/radios/400/edde8309-b7bf-4e35-bac9-64cb90292d91.png",
+      "data_url" : "http://78.129.193.27:4266/;.m3u",
+      "type" : "radio",
+      "country" : "my"
+    },
+    {
+      "id" : "rd_8",
+      "name" : "Tine Yin Thar",
+      "image_url" : "http://radio.js-cambodia.com/mm/tine-yin-thar.png",
+      "data_url" : "http://203.81.68.20/broadwavehigh.mp3",
+      "type" : "radio",
+      "country" : "my"
+    },
+    {
+      "id" : "rd_9",
+      "name" : "Thitsarparami Dhamma Society",
+      "image_url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX3xIYp9541wgc_xhxsianRE0BnhURQswASoa1QUI1wvj35OzQcBx4MnT7ag&s",
+      "data_url" : "http://edge.mixlr.com/channel/nmtev",
+      "type" : "radio",
+      "country" : "my"
+    },
+    {
+      "id" : "rd_10",
+      "name" : "Jesus Coming FM - Tamil",
+      "image_url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8JEFqSIxFFP0truZuIMnMJs0o--eQqbgWKsHV7jfB7u3yhWeoLYOh1gxn&s",
+      "data_url" : "http://live.jesuscomingfm.com:8230/index.html?sid=1",
+      "type" : "radio",
+      "country" : "my"
+    },
+    {
+      "id" : "rd_11",
+      "name" : "Bible.is Burmese - Old Judson Version Drama",
+      "image_url" : "http://sradiospush-10741.kxcdn.com/uploads/fm_53790.jpgv",
+      "data_url" : "http://radio.bible.is:8000/MYAOJVN2DA",
+      "type" : "radio",
+      "country" : "my"
+    },
+    {
+      "id" : "rd_12",
+      "name" : "Radio Veritas Asia",
+      "image_url" : "https://i.ytimg.com/vi/pPxPhp5wMJ0/maxresdefault.jpg",
+      "data_url" : "http://stream.rveritas-asia.org:8000/Myanmar.mp3",
+      "type" : "radio",
+      "country" : "my"
+    },
+    {
+      "id" : "rd_13",
+      "name" : "Mandalay FM",
+      "image_url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0YBKhl8i2YlmQWtgaagr8cjLEgsFVioT5SjejnvarXPp2Lu16rzB5gZJ4BQ&s",
+      "data_url" : "https://104275ooyala-lh-audio.akamaized.net/forevergroup-audio-only/1-6a43cb501dee2ec7433d21ef6acfc461_aac/chunklist_w284124136.m3u8",
+      "type" : "radio",
+      "country" : "my"
+    },
+    {
+      "id" : "rd_14",
+      "name" : "Radio For Asia(Myanmar 7-8)",
+      "image_url" : "https://mytuner.global.ssl.fastly.net/media/tvos_radios/b82gar7aN9.jpg",
+      "data_url" : "https://rfahls-i.akamaihd.net/hls/live/226233/RFALive_2/index.m3u8",
+      "type" : "radio",
+      "country" : "my"
+    },
+    {
+      "id" : "rd_15",
+      "name" : "Radio Free Asia(Myanmar night 8-9)",
+      "image_url" : "https://images-na.ssl-images-amazon.com/images/I/519JqFLebmL._SY355_.png",
+      "data_url" : "https://rfahls-i.akamaihd.net/hls/live/226234/RFALive_3/index.m3u8",
+      "type" : "radio",
+      "country" : "my"
+    },
+    {
+      "id" : "rd_16",
+      "name" : "FM Bagan",
+      "image_url" : "https://ws.shoutcast.com/images/contacts/6/6813/681373ae-eac0-4eaa-a843-a2445b6f0060/radios/56415c8c-d648-4c04-a22b-1751b1309e12/56415c8c-d648-4c04-a22b-1751b1309e12.png",
+      "data_url" : "https://streamingv2.shoutcast.com/myanmar-bagan-fm?tsUid=d9174440-6c5e-4a84-807d-506494494eff%20&%20lang=en-US%2cen%3bq%3d0.5%20&%20ad=radionoweb%20&%20userref=d9174440-6c5e-4a84-807d-506494494eff%20&%20appName=website",
+      "type" : "radio",
+      "country" : "my"
+    },
+    {
+      "id" : "rd_17",
+      "name" : "Myanmar Music Rap",
+      "image_url" : "https://i3.radionomy.com/radios/400/15245feb-6671-4894-bc72-c97ac4032f65.jpg",
+      "data_url" : "https://streaming.radionomy.com/JamendoLounge?tsUid=d9174440-6c5e-4a84-807d-506494494eff&lang=en-US%2cen%3bq%3d0.5&ad=radionoweb&userref=d9174440-6c5e-4a84-807d-506494494eff&appName=website",
+      "type" : "radio",
+      "country" : "my"
+    }
+  ]
+}
