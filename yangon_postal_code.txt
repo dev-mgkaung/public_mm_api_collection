@@ -1,0 +1,60 @@
+Yangon Postal Code by Township
+ Are you looking for Post Codes or Zip Codes for your township? Most frequently needed postcodes are those from Yangon townships.
+
+Township	Postal Code	မြို့နယ်
+Ahlone	11121	အလုံ
+Bahan	11201	ဗဟန်း
+Botahtaung	11162	ဗိုလ်တထောင်
+Coco Island	11281	ကိုကိုးကျွန်း
+Dagon	11191	ဒဂုံ
+Dagon Myothit (East)	11421	ဒဂုံမြို့သစ် (အရှေ့ပိုင်း)
+Dagon Myothit (Seikkan)	 	ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)
+Dagon Myothit (South)	11431	ဒဂုံမြို့သစ် (မြောက်ပိုင်း)
+Dagon Myothit (South)	 	ဒဂုံမြို့သစ် (တောင်ပိုင်း)
+Dala	 	ဒလ
+Dawbon	11241	ဒေါပုံ
+Hlaing	11051	လှိုင်
+Hlaing	11052	လှိုင်သာယာ
+Hlaingtharya (East)	11401	လှိုင်သာယာ (အရှေ့ပိုင်း)
+Hlaingtharya (West)	11401	လှိုင်သာယာ (အနောက်ပိုင်း)
+Hlegu	 	လှည်းကူး
+Hmawbi	 	မှော်ဘီ
+Htantabin	 	ထန်းတပင်
+Insein	11012	 
+Insein	11011	အင်းစိန်
+Kamayut	11041	ကမာရွတ်
+Kawhmu	 	ကော့မှူး
+Kayan	 	ခရမ်း
+Kungyangon	 	ကွမ်းခြံကုန်း
+Kyauktada	11182	ကျောက်တံတား
+Kyauktan	11301	ကျောက်တန်း
+Kyeemyindaing	11101	ကြည့်မြင်တိုင်
+Lanmadaw	11131	လမ်းမတော်
+Latha	 	လသာ
+Mayangone	11062	မရမ်းကုန်း
+Mayangone	11061	 
+Mingalardon	11021	မင်္ဂလာဒုံ
+Mingalartaungnyunt	11221	မင်္ဂလာတောင်ညွန့်
+Mingalartaungnyunt	11222	မင်္ဂလာတောင်ညွန့်
+Okkalapa (North)	11031	 
+Okkalapa (North)	11032	မြောက်ဥက္ကလာပ
+Okkalapa (South)	11091	တောင်ဥက္ကလာပ
+Pabedan	11143	ပန်းဘဲတန်း
+Pabedan	11141	ပန်းဘဲတန်း
+Pabedan	11142	ပုဇွန်တောင်
+Pazundaung	11171	စမ်းချောင်း
+Sanchaung	11111	 
+Seikgyikanaungto	 	ဆိပ်ကြီး/ခနောင်တို
+Seikkan	 	ဆိပ်ကမ်း
+Shwe Pyi Thar	11411	ရွှေပြည်သာ
+Taikkyi	 	တိုက်ကြီး
+Tamwe	11211	တာမွေ
+Tanyin	11291	သန်လျင်
+Tharkayta	11231	သာကေတ
+Thingangyun	11071	သင်္ဃန်းကျွန်း
+Thingangyun	11072	သင်္ဃန်းကျွန်း
+Thongwa	 	သုံးခွ
+Twantay	 	တွံတေး
+Yangon (Central Post Office)	11181	 
+Yankin	11082	ရန်ကင်း
+Yankin	11081	ရန်ကင်း
