@@ -1,0 +1,30 @@
+mportant postcodes are in Naypyitaw Union Territory.
+နေပြည်တော် ပြည်ထောင်စု နယ်မြေ၏ စာပို့သင်္ကေတများ
+Naypyitaw is the current capital city of Myanmar, and it has been mainly the adminstrative capital of the country since 2006.
+
+Township	Postal Code	မြို့နယ်	Towns
+DetKhiNaThiRi	15011	ဒက္ခိဏသီရိ	 
+Lewe	15032	လယ်ဝေး	Alar
+Lewe	-	လယ်ဝေး	Kanthar
+Lewe	-	 	Kyaungyay
+Lewe	15031	 	Lewe
+Lewe	-	ပျဉ်းမနား	Minpyin
+Lewe	15033	တပ်ကုန်း	Tharwuthti
+Lewe	-	 	Thayetkone
+Lewe	15034	 	The'kawgyi
+Lewe	-	 	Thitpotepin
+OkeTaRaThiRi	15015	ဥတ္တရသီရိ	 
+PokeBaThiRi	15014	ပုဗ္ဗသီရိ	 
+Pyinmana	15014	ပျဉ်းမနား	Kyitaunkkan
+Pyinmana	15011	 	NaypyitawCentral Post Office
+Pyinmana	-	 	Phyotekhwe
+Pyinmana	-	 	Pyankapyay
+Pyinmana	15012	 	Pyinmana
+Pyinmana	15016	 	Pyinmana (MyoHaung)
+Pyinmana	-	 	Pyinmana (Sugar cane factory)
+Pyinmana	15015	 	Taungnyo
+Pyinmana	15013	 	Yezin
+Tatkone	15022	တပ်ကုန်း	Shwemyoe
+Tatkone	15021	 	Tatkone
+ZaBuThiRi	15011	ဇမ္ဗူသီရိ	 
+ZayYarThiRi	15013	ဇေယျာသီရိ	 
