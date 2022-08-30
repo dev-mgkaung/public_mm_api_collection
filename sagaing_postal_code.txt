@@ -1,0 +1,168 @@
+fShareTweetShareSave
+Sagaing Region Postal Codes / Zip codes, Myanmar
+စစ်ကိုင်းတိုင်း ဒေသကြီး စာပို့ သင်္ကေတ အမှတ် အများ
+Shwebo in Sagaing Region was the birthplace of the Konbaung Dynasty of the Myanmar Empire. Sagaing also is a regional trade hub, for Myanmar exports to China and Inda, as well as imports from these countries pass through this state.
+
+Township 	Postal Code	မြို့နယ်	Town
+Ahyadaw 	02291	အရာတော်	Ahyadaw 
+Banmauk 	02131	ဗန်းမောက်	Banmauk 
+Budalin 	02271	ဘုတလင်	Budalin 
+Chaung U 	02331	ချောင်းဦး	Chaung U 
+Depeyin 	02251	ဒီပဲယင်း	Depeyin 
+Homalin 	02051	 	Homalin 
+Homelain 	- 	ဟုမ္မလင်း	Kawyar 
+Indaw 	02141	အင်းတော်	Indaw 
+Inntaw 	02142	 	Mawluu 
+Kale 	02093	ကလေး	Natchaung 
+Kalemyo 	02091	 	Kalemyo 
+Kalewa 	02101	ကလေးဝ	Kalewa 
+Kani 	02121	ကနီ	Kani 
+Kantbalu 	02211	ကန့်ဘလူ	Kantbalu 
+Katha 	02151	ကသာ	Katha 
+Kawlin 	02181	ကောလင်း	Kawlin 
+Khantee 	02011	ခန္တီး	Nanyun 
+Khin U 	02231	ခင်ဦး	Khin U 
+Kyunhla 	02201	ကျွန်းလှ	Kyunhla 
+Laheir 	02022	လဟယ်	Htanparkhwe 
+Layshee 	02142	လေရှီး	Mowinelute 
+Mawlaik 	02081	မော်လိုက်	Mawlaik 
+Mingin 	02112	မင်းကင်း	Kyarpin 
+Minkin 	02111	 	Minkin 
+Monywa 	02301	မုံရွာ	Monywa 
+Myaung 	02381	မြောင်	Myaung 
+Myinmu 	02341	မြင်းမူ	Myinmu 
+Nanyun 	02012	နန်းယွန်း	Pansaug 
+Pale 	02351	ပုလဲ	Pale 
+Phaungpyin 	02061	ဖောင်းပြင်	Phaungpyin 
+Pinlebu 	02161	ပင်လည်ဘူး	Pinlebu 
+Pinleibu 	- 	 	Myaelin 
+Sagaing 	02371	စစ်ကိုင်း	Sagaing 
+Salingyi 	02321	ဆားလင်းကြီး	Salingyi 
+Sarlingyi 	- 	 	Kyartet 
+Shwebo 	02261	ရွှေဘို	Shwebo 
+Tamu 	02071	တမူး	Tamu 
+Taze 	02221	တန့်ဆည်	Taze 
+Tigyaing 	02191	ထီးချိုင့်	Tigyaing 
+Wetlet 	02281	ဝက်လက်	Wetlet 
+Wuntho 	02171	ဝန်းသို	Wuntho 
+Ye U 	- 	ရေဦး	Tamartaw 
+Yeu 	02241	 	Yeu 
+Yinmabin 	02311	ယင်းမာပင်	Yinmabin 
+Ahyadaw 	- 	 	Naunggyiaine 
+Ahyadaw 	- 	 	Minywa 
+Budalin 	- 	 	Maunghtaung 
+Chaung U 	02332	 	Khinmon 
+Depeyin 	- 	 	Saipyingyi 
+Depeyin 	- 	 	Tintainyan 
+Homalin 	02052	 	Htamanthi 
+Homalin 	02053	 	Naungpoaung 
+Homelain 	- 	 	Maungkham 
+Homelain 	- 	 	Naungsankyin 
+Homelain 	- 	 	Nanttaw 
+Indaw 	02144	 	Meza 
+Inntaw 	02143	 	Nabar 
+Kale 	02094	 	Myokesee 
+Kale 	- 	 	Sakhangyi 
+Kale 	- 	 	Yarzajo 
+Kalemyo 	02092	 	Tahan 
+Kalewa 	02102	 	Masein 
+Kani 	02122	 	Kin 
+Kani 	- 	 	Ainetaung 
+Kani 	- 	 	Pyintaw 
+Kani 	- 	 	Wintmana 
+Kantbalu 	02213	 	Chatthin 
+Kantbalu 	02214	 	Htantabin 
+Kantbalu 	02215	 	Kabo 
+Kantbalu 	02216	 	HtanKone 
+Kantbalu 	- 	 	Pinttha 
+Kantbalu 	- 	 	Malal 
+Katha 	02152	 	Moda 
+Katha 	02153	 	Inywa 
+Katha 	- 	 	Kyauktonegyi 
+Katha 	- 	 	Nyaungchayhtaut 
+Kawlin 	02182	 	Koehtaungbo 
+Kawlin 	- 	 	Khantha 
+Khantee 	02021	 	Laheir 
+Khantee 	02031	 	Khantee 
+Khantee 	02041	 	Layshee 
+Khin U 	- 	 	Madaunghla 
+Khin U 	- 	 	Myindaung 
+Kyunhla 	- 	 	Paypinchaung 
+Kyunhla 	- 	 	Ywakonegyi 
+Mawlaik 	02082	 	Kindat 
+Mawlaik 	- 	 	Pantha 
+Mingin 	02113	 	Moukkataw 
+Monywa 	02302	 	Monywa Bazaar 
+Monywa 	02303	 	Ahlon 
+Monywa 	02304	 	MonywaCollage 
+Monywa 	02305	 	Namakha 
+Monywa 	02306	 	Monywa (GTC) 
+Monywa 	02307	 	Sonechaung 
+Monywa 	02308	 	Nyaungpingyi 
+Monywa 	02309	 	Thazi 
+Monywa 	- 	 	Kyaukkaar 
+Monywa 	- 	 	Kyaymone 
+Monywa 	- 	 	Moenhin 
+Monywa 	- 	 	Ahmyint 
+Myaung 	- 	 	Kyaukyit 
+Myaung 	- 	 	Nagarpauk 
+Myaung 	- 	 	Nabat 
+Myaung 	- 	 	Parainma 
+Myinmu 	- 	 	Arlakapa 
+Nanyun 	02013	 	Donhee 
+Pale 	02352	 	Mintaingpin 
+Pale 	- 	 	Chinphit 
+Pale 	- 	 	Lettaunggyi 
+Phaungpyin 	02062	 	Thanga 
+Phaungpyin 	02063	 	Minyar 
+Phaungpyin 	02064	 	Taungthut 
+Phaungpyin 	- 	 	Yaeouttaung 
+Phaungpyin 	- 	 	Kywaywa 
+Phaungpyin 	- 	 	ChaungWa 
+Phaungpyin 	- 	 	Thintaw 
+Sagaing 	02372	 	Sartaung 
+Sagaing 	02373	 	Nyaungpinwine 
+Sagaing 	02374	 	Ywathitgyi 
+Sagaing 	02375	 	Ywahtaung 
+Sagaing 	02376	 	Sagainghills 
+Sagaing 	02377	 	Padu 
+Sagaing 	- 	 	Minkun 
+Sagaing 	- 	 	Ohndaw 
+Sagaing 	- 	 	Saryaeywa 
+Salingyi 	02322	 	Kyaesintaung 
+Sarlingyi 	- 	 	SarHtone 
+Shwebo 	02262	 	Kyaukmyaung 
+Shwebo 	02263	 	Seikkon 
+Shwebo 	02264	 	Shwebo Collage 
+Shwebo 	02265	 	Paline 
+Shwebo 	- 	 	Sininn 
+Shwebo 	- 	 	Nyaungbintha 
+Shwebo 	- 	 	Mokesoechone 
+Shwebo 	- 	 	Kyartatbin 
+Shwebo 	- 	 	Shwebo No-8 Training Camp 
+Tamu 	02072	 	Mintha 
+Tamu 	02073	 	Uaungzayya 
+Tamu 	02074	 	Bandoola 
+Tamu 	02075	 	Myothit 
+Tamu 	02076	 	Khanpart 
+Tamu 	- 	 	Bokekan 
+Tamu 	- 	 	Thanan 
+Taze 	- 	 	Mukangyi 
+Taze 	- 	 	Kanhtooma 
+Taze 	- 	 	Nabatgyi 
+Taze 	- 	 	Ywashaemyauk 
+Tigyaing 	- 	 	Kanni 
+Tigyaing 	- 	 	Nyaungbintha 
+Tigyaing 	- 	 	Myataung 
+Tigyaing 	- 	 	Ahlaeltaw 
+Wetlet 	02282	 	Hlataw 
+Wetlet 	- 	 	Paukkan 
+Wetlet 	- 	 	Shainmakar 
+Wetlet 	- 	 	Shwepankone 
+Wuntho 	02172	 	Nankhan 
+Wuntho 	02173	 	Joehtaung 
+Wuntho 	- 	 	Kin 
+Ye U 	- 	 	Nyaunghla 
+Yinmabin 	- 	 	Kapaing 
+Yinmabin 	- 	 	Phowintaung 
+Yinmabin 	- 	 	Yinpaungtaing
