@@ -1,4 +1,4 @@
-https://docs.thaistock2d.com
-https://github.com/rayriffy/thai-lotto-api
-https://marketdata.set.or.th/mkt/marketsummary.do?language=en&country=US
-https://www.myanmar123.com/
+- https://docs.thaistock2d.com
+- https://github.com/rayriffy/thai-lotto-api
+- https://marketdata.set.or.th/mkt/marketsummary.do?language=en&country=US
+- https://www.myanmar123.com/
